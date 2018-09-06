@@ -1,5 +1,5 @@
 # hello-world
-My first repository, not a suppository 
+My first repository
 
 Howdy!
 
